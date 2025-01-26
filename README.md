@@ -39,14 +39,14 @@ The M5Stack Cardputer Modular Expander is an extension board designed to enhance
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Components](#components)
-- [Pin Connections](#pin-connections)
-- [Assembly Instructions](#assembly-instructions)
-- [3D Printing Guide](#3d-printing-guide)
-- [Files](#Files)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#-features)
+- [Components](#-components)
+- [Pin Connections](#-pin-connections)
+- [Assembly Instructions](#-assembly-instructions)
+- [3D Printing Guide](#-3d-printing-guide)
+- [Files](#-Files)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## ✨ Features
 
