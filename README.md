@@ -175,7 +175,7 @@ Below is the detailed pin connection diagram for the M5Stack Cardputer modular e
 
 | Name | Download URL |
 |-----------|--------|
-| Modular Expander **BODY** | [download **.stl**](https://github.com/) |
+| Modular Expander **BODY** | [download **.stl**](https://www.printables.com/model/1166101-m5stack-cardputer-modular-expander) |
 
 ## 🤝 Contributing
 
