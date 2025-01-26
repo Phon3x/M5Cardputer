@@ -6,7 +6,7 @@
 </a>
 
 <div align="center">
-  <img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_1.png?raw=true" style="border-radius:28px;" alt="M5Stack Cardputer Modular Expander" />
+  <img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_1.png?raw=true" style="border-radius:28px;" alt="M5Stack Cardputer Modular Expander" />
   <p><em>M5Stack Cardputer with installed modular expander</em></p>
 </div>
 
@@ -15,19 +15,19 @@
 <details>
 <summary>📷 Top view</summary>
 <div align="center">
-  <img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_2.png?raw=true" alt="Top">
+  <img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_2.png?raw=true" alt="Top">
 </div>
 </details>
 <details>
 <summary>📷 Side view</summary>
 <div align="center">
-  <img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_3.png?raw=true" alt="Side">
+  <img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_3.png?raw=true" alt="Side">
 </div>
 </details>
 <details>
 <summary>📷 Bottom view</summary>
 <div align="center">
-  <img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_4.png?raw=true" alt="Bottom">
+  <img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_4.png?raw=true" alt="Bottom">
 </div>
 </details>
 
@@ -79,7 +79,7 @@ The M5Stack Cardputer Modular Expander is an extension board designed to enhance
 Below is the detailed pin connection diagram for the M5Stack Cardputer modular expander:
 
 <div align="center">
-  <img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/diagram.png?raw=true" alt="Pin Connection Diagram" />
+  <img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/diagram.png?raw=true" alt="Pin Connection Diagram" />
   <p><em>Detailed pin connection scheme showing GPIO, power, and communication lines</em></p>
 </div>
 
@@ -94,8 +94,8 @@ Below is the detailed pin connection diagram for the M5Stack Cardputer modular e
 <details>
 <summary>Step 1: Pulling pins from the main Cardputer board</summary>
 <div align="center">
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_5.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_5.png?raw=true" alt="Pulling pins" width="38%"></a>
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_6.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_6.png?raw=true" alt="Pulling pins" width="38%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_5.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_5.png?raw=true" alt="Pulling pins" width="38%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_6.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_6.png?raw=true" alt="Pulling pins" width="38%"></a>
 </div>
   
 #### ⚠️ Required Advanced level of soldering skills!
@@ -109,8 +109,8 @@ Below is the detailed pin connection diagram for the M5Stack Cardputer modular e
 <details>
 <summary>Step 2: Prepare hole for WIFI antenna</summary>
 <div align="center">
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_13.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_13.png?raw=true" alt="hole for WIFI antenna" width="48%"></a>
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_8.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_8.png?raw=true" alt="WIFI antenna wire" width="48%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_13.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_13.png?raw=true" alt="hole for WIFI antenna" width="48%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_8.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_8.png?raw=true" alt="WIFI antenna wire" width="48%"></a>
 </div>
 > [!IMPORTANT]
 > Note: You will need a 3 mm drill (depending on the thickness of the antenna cable). I do not recommend taking more than 3 mm!
@@ -120,7 +120,7 @@ Below is the detailed pin connection diagram for the M5Stack Cardputer modular e
 <details>
 <summary>Step 3: Soldering the antenna</summary>
 <div align="center">
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_9.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_9.png?raw=true" alt="hole for WIFI antenna" width="88%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_9.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_9.png?raw=true" alt="hole for WIFI antenna" width="88%"></a>
 </div>
 > [!IMPORTANT]
 > Note: You have to cut integrated antenna, which is attached on M5StackS3.
@@ -129,21 +129,21 @@ Below is the detailed pin connection diagram for the M5Stack Cardputer modular e
 <details>
 <summary>Step 4: Bring the wires to the back panel</summary>
 <div align="center">
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_7.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_7.png?raw=true" alt="back panel" width="88%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_7.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_7.png?raw=true" alt="back panel" width="88%"></a>
 </div>
 </details>
 
 <details>
 <summary>Step 5: Preparation CC1101</summary>
 <div align="center">
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_11.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_11.png?raw=true" alt="CC1101" width="88%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_11.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_11.png?raw=true" alt="CC1101" width="88%"></a>
 </div>
 </details>
 
 <details>
 <summary>Step 6: Placing components in the extender</summary>
 <div align="center">
-  <a href="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_12.png?raw=true"><img src="https://github.com/Phon3x/M5Cardputer/blob/main/assets/imaes/dev_12.png?raw=true" alt="components assembling" width="88%"></a>
+  <a href="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_12.png?raw=true"><img src="hhttps://github.com/Phon3x/M5Cardputer/blob/main/assets/images/dev_12.png?raw=true" alt="components assembling" width="88%"></a>
 </div>
 > [!TIP]
 > Note: *Picture from first assembling test* forget to take final version, it is much clear 😆
